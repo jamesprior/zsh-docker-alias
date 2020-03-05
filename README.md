@@ -23,7 +23,7 @@ With `zsh-docker-alias` the `rails`, `rake`, and `bundle` commands will first ch
 
 You can either source the `docker-alias.zsh` script directly in your `~/.zshrc` or install it as an Oh My Zsh Plugin
 
-    ln -s $PWD/zsh-plugins/bp-pengie $ZSH_CUSTOM/plugins
+    ln -s $PWD/zsh-plugins/zsh-docker-alias $ZSH_CUSTOM/plugins
 
     # Next edit ~/.zshrc and update the plugins:
     plugins=(git bundler docker-alias)
