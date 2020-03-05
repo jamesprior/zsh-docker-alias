@@ -26,7 +26,7 @@ You can either source the `docker-alias.zsh` script directly in your `~/.zshrc` 
     ln -s $PWD/zsh-plugins/bp-pengie $ZSH_CUSTOM/plugins
 
     # Next edit ~/.zshrc and update the plugins:
-    plugins=(git bundler bp-pengie)
+    plugins=(git bundler docker-alias)
 
 
 
